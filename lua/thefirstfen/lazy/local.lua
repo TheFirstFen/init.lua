@@ -2,7 +2,7 @@
 local local_plugins = {
     {
         "harpoon",
-        dir = "~/personal/harpoon",
+        dir = "~/nvim_plugins/harpoon",
         config = function()
             local harpoon = require("harpoon")
 
