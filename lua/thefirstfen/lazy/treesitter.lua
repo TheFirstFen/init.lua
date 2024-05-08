@@ -7,8 +7,7 @@ return {
             ensure_installed = {
                 "vimdoc", "javascript", "typescript", "c", "lua", "rust",
                 "jsdoc", "bash", "go", "java", "asm", "c_sharp", "cmake",
-                "cpp", "gomod", "gosum", "gotmpl", "gowork", "matlab",
-                "python",
+                "cpp", "gomod", "gosum",  "gowork", "matlab", "python",
             },
 
             -- Install parsers synchronously (only applied to `ensure_installed`)
